@@ -1,5 +1,0 @@
-this is html.
-welcome to web dev.
-this is HTML PART.
-
-
